@@ -6,6 +6,8 @@ How we made our microservices continuous integration & delivery process easily m
 
 > This is a re-publish for a post I wrote back in Aug 2019. many things changed since then and I hope to write new post about it soon
 
+> To see how we further improved our CI/CD process with GitLab, check out [part 2](https://medium.com/@aviadlevy/ci-cd-of-microservices-architecture-with-gitlab-pt-2-f640d4c57c9b)
+
 As the Threat Cloud Application team, we’re responsible for many cloud applications. We have public applications, and many other internal applications that support them. This software design is also known as a microservices architecture. Our applications are deployed on Kubernetes cluster which is deployed in AWS.
 
 We started using GitLab as our central source code management and application life cycle about a year ago.
